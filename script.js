@@ -17,3 +17,6 @@ resetBtn.addEventListener("click", () =>{
   cube.style.left="0px";
   moved= false;
 });
+
+
+//نوشتی ولی باهاس ریکت باشه پس همه چی داغون میشه
